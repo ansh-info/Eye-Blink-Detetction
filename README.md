@@ -17,7 +17,6 @@ To install the necessary packages, run:
 
 ```bash
 pip install opencv-python mediapipe numpy
-
 ```
 
 ### Additional Packages
