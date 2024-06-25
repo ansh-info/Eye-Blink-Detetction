@@ -17,13 +17,6 @@ To install the necessary packages, run:
 
 ```bash
 pip install opencv-python mediapipe numpy
-### Additional Packages
-
-- math (standard library)
-- csv (standard library)
-- time (standard library)
-- datetime (standard library)
-- sys (standard library)
 ```
 
 ### Additional Packages
