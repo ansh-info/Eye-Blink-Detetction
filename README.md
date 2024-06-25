@@ -1,10 +1,10 @@
-```markdown
 # Blink Detector Sensitive to Facial Orientation
 
 ## Overview
 
 This project implements a blink detector that is sensitive to facial orientation. The program uses a webcam to capture video, processes the video to detect blinks, and records various metrics in a CSV file. The blink detection is influenced by the orientation of the face, adjusting the detection criteria based on whether the face is looking forward, left, right, or downward.
 
+```markdown
 ## Requirements
 
 ### Python Version
