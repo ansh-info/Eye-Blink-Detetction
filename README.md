@@ -15,7 +15,6 @@ This project implements a blink detector that is sensitive to facial orientation
 
 To install the necessary packages, run:
 
-```bash
 pip install opencv-python mediapipe numpy
 ```
 
