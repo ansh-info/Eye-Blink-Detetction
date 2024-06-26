@@ -72,6 +72,4 @@ The program performs better if the subject does not wear glasses.
 
 - [Eye Blink Detector and Counter with Mediapipe](https://medium.com/@aiphile/eyes-blink-detector-and-counter-mediapipe-a66254eb002c)
 - [Head Pose Estimation using Python](https://towardsdatascience.com/head-pose-estimation-using-python-d165d3541600)
-```
 
-This complete `README.md` file includes all the information about the project, its requirements, usage instructions, additional notes, and references for further reading.
