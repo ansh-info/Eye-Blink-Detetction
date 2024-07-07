@@ -7,15 +7,18 @@ This project implements a blink detector that is sensitive to facial orientation
 ```markdown
 ## Requirements
 
-### Python Version
-
-- Python 3.9 or later
-
-### Pip Packages
-
-To install the necessary packages, run:
-
-pip install opencv-python mediapipe numpy
+## Installation
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/ansh-info/Industrial-Scale-Penicillin-Simulation.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Industrial Scale Penicillin Simulation
+    ```
+3. Install the required packages:
+    ```sh
+    pip install -r requirements.txt
 ```
 
 ### Additional Packages
