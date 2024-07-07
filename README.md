@@ -18,7 +18,7 @@ This project implements a blink detector that is sensitive to facial orientation
     pip install -r requirements.txt
     ```
 
-```
+
 ### Additional Packages
 
 - math (standard library)
