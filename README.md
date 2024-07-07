@@ -16,7 +16,7 @@ This project implements a blink detector that is sensitive to facial orientation
 3. Install the required packages:
     ```sh
     pip install -r requirements.txt
-```
+    ```
 
 ```
 ### Additional Packages
