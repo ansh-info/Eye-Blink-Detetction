@@ -7,11 +7,11 @@ This project implements a blink detector that is sensitive to facial orientation
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ansh-info/Industrial-Scale-Penicillin-Simulation.git
+    git clone https://github.com/ansh-info/Eye-Blink-Detetction.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Industrial Scale Penicillin Simulation
+    cd Eye Blink Detetction
     ```
 3. Install the required packages:
     ```sh
