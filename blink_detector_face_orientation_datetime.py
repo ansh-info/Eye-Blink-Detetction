@@ -1,13 +1,14 @@
 # BLINK DETECTOR SENSIBLE TO FACIAL ORIENTATION
 
+import csv
+import math
+import sys
+import time
+from datetime import datetime
+
 import cv2
 import mediapipe as mp
 import numpy as np
-import math
-import csv 
-import time
-import sys
-from datetime import datetime
 
 # right eyes indices
 RIGHT_EYE =[ 362, 382, 381, 380, 374, 373, 390, 249, 263, 466, 388, 387, 386, 385,384, 398 ]
