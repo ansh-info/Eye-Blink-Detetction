@@ -15,7 +15,7 @@ RIGHT_EYE =[ 362, 382, 381, 380, 374, 373, 390, 249, 263, 466, 388, 387, 386, 38
 # Left eyes indices 
 LEFT_EYE =[ 33, 7, 163, 144, 145, 153, 154, 155, 133, 173, 157, 158, 159, 160, 161 , 246 ] 
 # Threshold for Blinking
-BLINK_RATIO_THRESHOLD = 3.4
+BLINK_RATIO_THRESHOLD = 3.42
 
 # define face mesh
 mp_face_mesh = mp.solutions.face_mesh
